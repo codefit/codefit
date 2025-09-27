@@ -5,7 +5,9 @@
 - ⚡ Fun fact: Maybe I´m not better coder than u, but I´m better than me yesterday
 
 # 💫 About Me:
-Jsem David Kojecký, zkušený webový vývojář a tvůrce pod názvem CodeFit Webdesign, na trhu od roku 2017. Specializuji se na tvorbu moderních webů a e-shopů — především pro lékárny — a na vývoj webových aplikací, které jsou rychlé, bezpečné a uživatelsky přívětivé. 📈 Motto<br><br>„Only way to do a great work is to love what you do“
+Jsem David Kojecký, zkušený webový vývojář a tvůrce pod názvem CodeFit Webdesign, na trhu od roku 2017. Specializuji se na tvorbu moderních webů a e-shopů — především pro lékárny — a na vývoj webových aplikací, které jsou rychlé, bezpečné a uživatelsky přívětivé.
+
+📈 Motto<br><br>„Only way to do a great work is to love what you do“
 
 
 ## 🌐 Socials:
