@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Next JS & Vue version of Ecommerce platform for **Mobilní lékárna**
+- 🔭 I’m currently working on Next JS & Vue version of E-commerce platform for **Mobilní lékárna**
 - 📫 How to reach me: E-mail, Phone, Instagram mainly 
-- ⚡ Fun fact: Maybe I´m not better than u, but I´m better than me yesterday
+- ⚡ Fun fact: Maybe I´m not better coder than u, but I´m better than me yesterday
 
 # 💫 About Me:
-👋 O mně<br><br>Jsem David Kojecký, zkušený webový vývojář a tvůrce pod názvem CodeFit Webdesign, na trhu od roku 2017. <br>Codefit<br><br>Specializuji se na tvorbu moderních webů a e-shopů — především pro lékárny — a na vývoj webových aplikací, které jsou rychlé, bezpečné a uživatelsky přívětivé. 📈 Motto<br><br>„Only way to do a great work is to love what you do“
+Jsem David Kojecký, zkušený webový vývojář a tvůrce pod názvem CodeFit Webdesign, na trhu od roku 2017. Specializuji se na tvorbu moderních webů a e-shopů — především pro lékárny — a na vývoj webových aplikací, které jsou rychlé, bezpečné a uživatelsky přívětivé. 📈 Motto<br><br>„Only way to do a great work is to love what you do“
 
 
 ## 🌐 Socials:
